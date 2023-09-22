@@ -7,9 +7,9 @@
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-pathak-126021119/) 
 [![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)](https://github.com/atharvapathak/Sales_Forecasting_Project)
 
-#### The goal of this project is to Predict the Future Sales [#DataScience](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) for the challenging time-series dataset consisting of daily sales data,
+#### The goal of this project is to Predict the Future Sales [#DataScience](https://github.com/atharvapathak/Sales_Forecasting_Project) for the challenging time-series dataset consisting of daily sales data,
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=python&style=social)](https://github.com/iamsivab)
+[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=github&style=social)](https://github.com/atharvapathak) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/atharvapathak/Sales_Forecasting_Project.svg?logo=git&style=social)](https://github.com/atharvapathak/)[![GitHub top language](https://img.shields.io/github/languages/top/atharvapathak/Sales_Forecasting_Project.svg?logo=python&style=social)](https://github.com/atharvapathak)
 
 #### Few popular hashtags - 
 ### `#Sales Prediction` `#Time Series` `#Ensembling`
