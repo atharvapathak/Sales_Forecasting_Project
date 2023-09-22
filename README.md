@@ -9,7 +9,7 @@
 
 #### The goal of this project is to Predict the Future Sales [#DataScience](https://github.com/atharvapathak/Sales_Forecasting_Project) for the challenging time-series dataset consisting of daily sales data,
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=github&style=social)](https://github.com/atharvapathak) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/atharvapathak/Sales_Forecasting_Project.svg?logo=git&style=social)](https://github.com/atharvapathak/)[![GitHub top language](https://img.shields.io/github/languages/top/atharvapathak/Sales_Forecasting_Project.svg?logo=python&style=social)](https://github.com/atharvapathak)
+[![GitHub repo size](https://img.shields.io/github/repo-size/atharvapathak/Sales_Forecasting_Project.svg?logo=github&style=social)](https://github.com/atharvapathak) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/atharvapathak/Sales_Forecasting_Project.svg?logo=git&style=social)](https://github.com/atharvapathak/)[![GitHub top language](https://img.shields.io/github/languages/top/atharvapathak/Sales_Forecasting_Project.svg?logo=python&style=social)](https://github.com/atharvapathak)
 
 #### Few popular hashtags - 
 ### `#Sales Prediction` `#Time Series` `#Ensembling`
@@ -254,7 +254,7 @@ git clone https://github.com/atharvapathak/Sales_Forecasting_Project.git
  
 ### Need help?
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@iamsivab&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/atharva-pathak-126021119/)
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@atharvapathak&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/atharva-pathak-126021119/)
 
 :email: Feel free to contact me @ [atharvapathakb2w@gmail.com](https://mail.google.com/mail/)
 
