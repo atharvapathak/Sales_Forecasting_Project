@@ -258,5 +258,5 @@ git clone https://github.com/atharvapathak/Sales_Forecasting_Project.git
 
 :email: Feel free to contact me @ [atharvapathakb2w@gmail.com](https://mail.google.com/mail/)
 
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=atharvapathakb2w@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/atharvapathak) [![Twitter Follow](https://img.shields.io/twitter/follow/iamsivab?style=social)](https://twitter.com/pathak_atharva)
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=atharvapathakb2w@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/atharvapathak) [![Twitter Follow](https://img.shields.io/twitter/follow/pathak_atharva?style=social)](https://twitter.com/pathak_atharva)
 
